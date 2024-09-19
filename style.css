@@ -81,7 +81,7 @@
 /* Servive section */
 .service-section{
     width: 100%;
-    height: 50vh;
+    height: 60vh;
 }
 .service-section h1{
     margin: 0;
@@ -109,4 +109,33 @@
     font-size: 16px;
     font-family: "Roboto", system-ui;
     font-weight: 400;
+}
+
+/* Quote section */
+.quote-section{
+    background-color: #e5e7eb;
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 50px;
+}
+.quote p{
+    margin: 0;
+    font-family: "Roboto", system-ui;
+    font-weight: 400;
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    color: #1f2937;
+    text-align: center;
+}
+.quote h5{
+    margin: 0;
+    padding-top: 20px;
+    font-size: 16px;
+    font-family: "Roboto", system-ui;
+    font-weight: 700;
+    text-align: end;
 }
