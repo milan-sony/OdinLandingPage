@@ -1,1 +1,2 @@
-# Odin Project: Landing Page solutions
+# #TheOdinProject | Assignment
+# Landing Page solutions
